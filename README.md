@@ -26,3 +26,4 @@ Je suis un concepteur-développeur logiciel fullstack au sud-est de la France
 
 ## Expertise 
 <img align="left" alt="nodejs" src="https://img.shields.io/badge/node-%3E%3D%206.0.0-brightgreen" />
+<img align="left" alt="nodejs" src="https://img.shields.io/badge/types-Flow%20%7C%20TypeScript-blue" />
