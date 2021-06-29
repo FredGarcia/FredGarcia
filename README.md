@@ -16,7 +16,7 @@
 Je suis un concepteur-développeur logiciel fullstack au sud-est de la France
 - 🔭 Travail sur plusieurs projets:
   - En client lourd avec <a href="https://github.com/FredGarcia/ArmoireRFID">C#</a>
-  - Pour support mobile avec <a href="https://github.com/FredGarcia/Andro1">Android</a>
+  - Pour support mobile avec <a href="https://github.com/FredGarcia/Andro1/tree/master/CommentMag1">Android</a>
   - Soit en utilisant principalement Angular en frontend avec Nodejs en middleware et java ou php en backend  
   
 - 🌱 Diagram Unified Process classes/séquence/état et patrons de conception 
