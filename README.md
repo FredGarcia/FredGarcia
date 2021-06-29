@@ -1,6 +1,6 @@
 ### Hi there 👋
 🔭 En travaux ...<br>  
-<a href="mailto:garcia.fred@wanadoo.fr">💬 Ask me about !</a>
+<a href="mailto:garcia.fred@wanadoo.fr">💬</a> Ask me about !
 
 <!--
 - 🔭 I’m currently working on ...
